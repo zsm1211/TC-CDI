@@ -12,3 +12,22 @@ Figure 1.Reconstruction results for the complicated object. (a) Coded measuremen
 
 ## Usage
 
+
+## Citation
+```
+@article{Chen:22,
+author = {Ziyang Chen and Siming Zheng and Zhishen Tong and Xin Yuan},
+journal = {Optica},
+keywords = {Digital micromirror devices; Phase retrieval; Power spectral density; Ptychography; Spatial resolution; X ray imaging},
+number = {6},
+pages = {677--680},
+publisher = {Optica Publishing Group},
+title = {Physics-driven deep learning enables temporal compressive coherent diffraction imaging},
+volume = {9},
+month = {Jun},
+year = {2022},
+url = {http://opg.optica.org/optica/abstract.cfm?URI=optica-9-6-677},
+doi = {10.1364/OPTICA.454582},
+abstract = {Coherent diffraction imaging (CDI), as a lensless imaging technique, can achieve a high-resolution image with intensity and phase information from a diffraction pattern. To capture high-speed and high-spatial-resolution scenes, we propose a temporal compressive CDI system. A two-step algorithm using physics-driven deep-learning networks is developed for multi-frame spectra reconstruction and phase retrieval. Experimental results demonstrate that our system can reconstruct up to eight frames from a snapshot measurement. Our results offer the potential to visualize the dynamic process of molecules with large fields of view and high spatial and temporal resolutions.},
+}
+```
