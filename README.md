@@ -12,6 +12,7 @@ Figure 1.Reconstruction results for the complicated object. (a) Coded measuremen
 
 ## Usage
 
+1.Download the all the files via [Baidu Drive](https://pan.baidu.com/s/1_vzOj8CFbyLGHY7tEYt5YA) (access code `zsms`) or [One Drive](https://westlakeu-my.sharepoint.com/:f:/g/personal/xylab_westlake_edu_cn/EijpeAUWWShHqipaqwfR084BS40MS_edJ7GwNJs0ks2TEg?e=wmEZ8b) and directly put the data in `TC_CDI_Stage1`.
 
 ## Citation
 ```
